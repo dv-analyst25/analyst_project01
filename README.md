@@ -69,5 +69,4 @@ MySQL Workbench (you can also use SQL Server)
 
 ## Author
 **Devendra Vishwakarma**  
-B.Tech Mechanical Engineering, MANIT Bhopal  
-Fresher-level project on Supply Chain and Sales Data Analysis using Python and SQL
+B.Tech Mechanical Engineering, MANIT Bhopal 
