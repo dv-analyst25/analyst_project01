@@ -24,7 +24,7 @@ The goal is to clean raw order data, calculate key metrics like profit, revenue,
 6. Dropped unnecessary columns (`list_price`, `cost_price`, `discount_percent`)
 7. Loaded the cleaned data into SQL database (`df_orders` table)
 
-**File:** `order data.py`
+**File:** `order data analysis.py`
 
 ---
 
